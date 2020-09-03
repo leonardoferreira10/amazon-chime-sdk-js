@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Change WebRTC semantics to Unified Plan by default for Chromium-based browsers
+- Update readme to include link to React components repo
 
 ### Removed
 
